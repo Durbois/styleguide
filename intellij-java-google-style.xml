@@ -77,6 +77,7 @@
       <package name="hak" withSubpackages="true" static="false" />
       <package name="hep" withSubpackages="true" static="false" />
       <package name="ie" withSubpackages="true" static="false" />
+      <package name="io" withSubpackages="true" static="false" />
       <package name="imageinfo" withSubpackages="true" static="false" />
       <package name="info" withSubpackages="true" static="false" />
       <package name="it" withSubpackages="true" static="false" />
